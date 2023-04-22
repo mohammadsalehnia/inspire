@@ -1,6 +1,7 @@
 {
     "name": "mohammadsalehnia/inspire",
-    "description": "My inspire package",
+    "description": "My inspiration package",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Mohammadsalehnia\\Inspire\\": "src/"
